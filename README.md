@@ -2,6 +2,8 @@
 
 This sample shows integration of multiple Android Things peripheral to build a connected Weather Station.
 
+Starter project for Wilson and Kermit
+
 ## Pre-requisites
 
 - Android Things compatible board
